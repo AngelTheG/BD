@@ -1,0 +1,61 @@
+codigo HGVS,tipo de mutacion,proteina alterada,codon/cambio de base,COD_GEN
+c.8226+5G>A,1,desconocido,desconocido,134797
+c.315+1G>C,2,desconocido,C>A / C>G / C>T,141900
+c.1118del,3,Arg373Asnfs*21,desconocido,613295
+c.245_246ins[GCAGCCTCATGGTGGTGGCTGGGGGCAGCCCCAT;160_245],3,p.(Gln91_Gly92insProHisGlyGlyGlyTrpGlyGlnProHisGlyGlyGlyTrpGlyGlnProHisGlyGlyGlyTrpGlyGlnProHisGlyGlyGlyTrpGlyGlnProHisGlyGlyGlyTrpGlyGln),desconocido,176640
+c.953del,3,p.(Asn318Thrfs*10),AAC-ACA,125255
+c.222C>A,4,p.Tyr74*,AAG-ACG,185800
+c.833T>C,2,p.I278T,desconocido,613663
+c.1982T>C,2,p.Met661Thr,ATG-ACG,305915
+c.1090A>T,4,p.Lys364*,AAG-TAG,606268
+c.1135G>A,2,p.Ala379Thr,GCG-ACG,138079
+c.2636C>A,4,p.Ser879*,TCA-TAA,303630
+c.1259G>A,4,pag. Trp420*,TGG-TAG,600206
+c.1348G>T,2,p.Gly450Trp,GGG-TGG,182381
+c.2439_2452dup,5,pag. (His818Argfs*31),GCACCGGCGGAGCC-GCACCGGCGAGCCGCACCGGCGGAGCC,606558
+c.654+1G>T,1,desconocido,desconocido,601309
+c.660+1G>A,1,desconocido,desconocido,611236
+c.1192C>T,4,p.R398*,CGA-TGA,613272
+c.1195T>C,2,p.Ser399Pro,TCT-CCT,602780
+c.4343T>C,2,p.Leu1448Ser,TTG-TCG,617245
+c.1310T>C,2,p.Phe437Ser,TTT-TCT,610456
+c.433_449del,3,p.(Trp145Leufs*24),GTGGATGCAGAGCCCCCGC-GC,142983
+c.1448C>T,2,p.Pro483Leu,CCT-CTT,605101
+c.2353C>T,2,p.Arg785Cys,CGC-TGC,616423
+c.574C>A,2,p.Arg192Ser,CGT-AGT,167413
+c.1252G>A,4,pE418K,GAA-AAA,604277
+2p16–22 deletion,6,desconocido,desconocido,185535
+c.3797G>T,2,p.Gly1266Val,GGT-GTT,120130
+c.4229_4233dup,5,p.(Gly1412ArgfsX157),desconocido,608461
+c.2737C>T,2,p.Arg913*,CGA-TGA,615951
+2p16–23 deletion,6,desconocido,desconocido,607366
+c.736C>T,4,p.Arg246*,CGA-TGA,300980
+c.433_435delTGT,3,p.C145del,desconocido,300502
+c.1495C>T,4,p.Arg499Ter,CGA-TGA,300040
+c.6262G>A,2,p.G2088R,CGG-CAG,120120
+c.304C > T,2,p. Arg102*,CGA-TGA,604149
+c.1421G>T,2,p.G474V p.Gly474Val,GGC-GTC,120140
+c.68T>C,2,p. V23A,GTT/GCT,608625
+c.6203T>A,4,desconocido,desconocido,608945
+c.649_653delinsAAA,3,p.His217Lysfs*86,desconocido,131320
+c.1769-2delA,1,desconocido,desconocido,300550
+c.268C>T,4,p.Gln90Ter,CAG-TAG,602656
+c.2041C>T,4,p.Arg681*,CGA-TGA,300172
+c.1126A>G,2,p.(Lys376Glu),desconocido,190181
+c.1516A>G,2,p.I506V,ATC-GTC,611629
+c.898del,3,p.Ser300Val,desconocido,254780
+c.18_28delAGAGAGGCCAA,3,p.Lys6Asnfs*4,AAA-AAC,600185
+c.3603_3606del,3,p.R1201fs,ACAA del,605880
+c.99_106dupGAGCCCGG,5,p.(Glu36Glyfs*44),GAG-GGA,615302
+c.7165–4A>G,1,desconocido,desconocido,608892
+c.641_667+25del,6,desconocido,desconocido,612026
+c.593A>G,2,p.K198R,AAA-AGA,115440
+c.12185G>A,2,p.(Arg4062Gln),CGG-CAG,613768
+c.286G>A,2,p.Gly96Arg,GGA-AGA,602662
+c.1974T>G,4,p.Tyr658*,TAT - TAG,610148
+c.1505G>A,2,p.(Cys502Tyr),TGC-TAC,602727
+c.266G>A,2,p.Cys89Tyr,TGT-TAT,173515
+c.598C>T,4,p.Gln200*,desconocido,606597
+c.71G>A,4,p.Trp24*,TGG-TAG,613350
+c.1325A>G,2,p.H442R,CAC-CGC,602858
+c.683_684insA,5,p.Glu229fsArg*3,GAG-AGA,603856

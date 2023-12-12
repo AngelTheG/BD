@@ -1,0 +1,61 @@
+Id°sintoma,tratamiento,sintoma
+1,desconocido,proptisis;fisuras palpebrales; retrognatia
+2,transferencia de sangre; consumo de hierro,eritropoyesis anormal; anemia;
+3,desconocido,ectrodactilia|defectos en el cuero cabelludo
+4,desconocido,demensia subaguda ;estado esponjoso severo;degeneración difusa de las células nerviosas; proliferación glial.
+5,queratoplastia,opacidad corneal bilateral difusa con opacidades blanquecinas en forma de escamas en todo el estroma
+6,desconocido,"anquilosis de las articulaciones interfalángicas proximales, fusión de los huesos del carpo y el tarso "
+7,desconocido,hipotonía ;posturas distónicas evidentes desde la primera infancia;retraso global en el desarrollo con incapacidad para caminar o hablar 
+8,desconocido,"IM moderada, macrocefalia, convulsiones, espasmos mioclónicos"
+9,desconocido,incisivos laterales superiores o de los incisivos laterales en forma de clavija
+10,"dieta baja en carbohidratos, agentes hipoglucemientes orales",hiperglucemia leve
+11,trasplante de riñon,"insuficiencia renal ,perdida auditiva, anomalias oculares"
+12,desconocido,sordera
+13,desconocido,disminución de la resorción tubular renal de glucosa de la orina en ausencia de hiperglucemia
+14,desconocido,"retraso en el habla, facies dismorfica, discapacidad intelectual "
+15,desconocido,"numerosos cánceres de células basales, quistes epidérmicos de la piel, pliegues durales calcificados"
+16,desconocido,"fragilidad ósea, baja masa ósea"
+17, fármacos antiepilépticos,crisis epileptica
+18, fármacos antiepilépticos,"crisis epileptica,convulsiones febriles"
+19,desconocido,"hipotonía, convulsiones , ausencia del lenguaje"
+20,desconocido,"mielodisplasia, infección, restricción del crecimiento, hipoplasia suprarrenal"
+21, implante dental o protesis,"agenesia dental de los terceros molares,agenesia dental de los incisivos laterales"
+22,desconocido,"hiperostosis supraorbitaria, submodelación de los huesos pequeños "
+23,desconocido,"retraso en el desarrollo psicomotor e hipotonía evidente desde la primera infancia,dificultades para alimentarse, marcha atáxica,incapacidad para caminar"
+24,"dieta, actividad fisica regular, usar glucometro","resistencia a la insulina, hipertensión , hipertrigliceridemia"
+25,desconocido,"espasticidad , debilidad progresiva de las extremidades inferiores."
+26,"colectomia total, colectomia parcial ",cánceres sobre pólipos o adenomas
+27,aplicacion de corticoesteroides,"fragilidad de las membranas basales vasculares,porencefalia"
+28,inyecciones de cobre ," facies característica, caderas y cabezas radiales dislocadas, coalición carpiana , baja estatura, escoliosis , anomalías de la columna cervical"
+29,desconocido,"retraso global en el desarrollo de inicio infantil con discapacidad intelectual de severa a profunda, un leve retraso en la marcha con una marcha amplia e inestable ,ausencia de un lenguaje significativo. "
+30,desconocido,inhibicion de canal de potasio por halotano
+31,desconocido,"Nariz antevertida, Boca grande, Desarrollo psicomotor retrasado,Convulsiones "
+32,dieta baja en carbohidratos y suplementos,"microcefalia, Hipotonía, Acidosis láctica"
+33,desconocido,"Microcefalia , Cardiomiopatía hipertrófica,Reflujo gastroesofágico"
+34,desconocido,"Crecimiento deficiente debido a la mala nutrición, Blísters orales, Fragilidad de la piel"
+35,benzodiazepinas y antiepilépticos,"Tortícolis, Temblor, Ansiedad, TOC"
+36,fisioterapia,"Enanismo, Pérdida auditiva, Angustia respiratoria"
+37,desconocido,"Estatura corta, Desarrollo psicomotor retrasado, Dislocación de cadera"
+38,desconocido,"Boca pequeña, Tórax corto, Riñón ausente"
+39,desconocido,"Sordera, Hipoparatiroidismo, Displasia renal"
+40,administración de fosfato y vitamina D,"pérdida auditiva, Estatura baja, Estenosis espinal"
+41,colectomía ,"Adenomas colorrectales, Meningioma, Multiples canceres"
+42,desconocido,"Baja estatura, bajo peso, microcefalia"
+43,desconocido,"Micrognatia, Tortuosidad arterial, Aneurismas"
+44,desconocido,"Aplasia de derivados de conductos mullerianos , Ausencia congénita o hipoplasia grave del útero"
+45,desconocido,"Perdida de visión, Demencia, Apraxia"
+46,"cirugía, radioterapia","Disgerminoma, Adenocarcinoma papilar ovárico, Cistadenocarcinoma ovárico grave"
+47,intervenciones quirúrgicas,"Pérdida auditiva, microcefalia, Fisuras palpebrales descendentes"
+48,desconocido,"microcefalia, orejas grandes, Retraso global en el desarrollo"
+49,desconocido,"Asimetría facial, Retraso del crecimiento postnatal, Hipertelorismo "
+50,desconocido,"Microcefalia, Bajo peso, Escoliosis"
+51,desconocido,"hipertelorismo, Braquidactilia, Hipogammaglobulinemia "
+52,cirugía,"Ataques isquémicos transitorios, Convulsiones, Hemiparesia"
+53,desconocido,"microcefalia, mala vision, Ataxia"
+54,desconocido,"Distrofia retiniana, Obesidad, Insuficiencia renal"
+55,trasplante de médula,"Anomalías dentales, Hepatosplenomegalia, Parálisis facial"
+56,transfusiones de plaquetas,"Hemorragia, Piel purpura"
+57,desconocido,"Labio leporino, Hipertelorismo, Sinófisis"
+58,desconocido,"Parálisis de bulbar, Dificultad para tragar, Debilidad facial bilateral"
+59,desconocido,"Microcefalia, Defecto septal auricular, Estreñimiento "
+60,desconocido,"Niveles prematuros estimulados puberalmente de LH, Niveles basales puberales prematuros de la hormona luteinizante (LH)"
